@@ -1,0 +1,39 @@
+ .addState {
+     padding-top: 10px;
+     padding-left: 10px;
+     color: rgb(18, 188, 52);
+
+ }
+
+ .box {
+     background: rgb(237, 231, 231);
+     height: 360px;
+
+
+
+ }
+
+ .Line {
+     border-bottom: 3px solid #256fb9;
+     margin-top: 10px;
+ }
+
+
+ .maindiv {
+     width: 100%;
+     margin-top: 15px;
+     margin-left: 15px;
+     margin-right: 15px;
+    
+ }
+
+ .header {
+     display: flex;
+     justify-content: space-between;
+
+
+ }
+
+ .ADD {
+     background: rgb(21, 218, 18);
+ }

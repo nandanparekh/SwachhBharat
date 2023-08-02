@@ -1,0 +1,262 @@
+.Fourimg{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+}
+.FourimG{
+    display: flex;
+    margin-top: 30px;
+    
+   
+}
+.Fourimg1{
+    margin-left: 40px;
+    
+}
+.Fourimg2{
+    margin-left: 62px;
+    
+}
+.img1{
+   
+    background: #a9e1bd;
+    height: 50px;
+    text-align: center;
+    padding-top: 13px;
+}
+.WhaT{
+
+padding-top: 265px;
+padding-left:100px;
+}
+.website {
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 260px;
+}
+.WhaT{
+    position: relative;
+    color: white;
+    font-size: 60px;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-family: "sans-serif ,Oswald";
+    text-shadow: #f40a1e;
+}
+.Maindiv2{margin-top: 170px;
+    margin-left: 100px;
+}
+.PROGRAMIMG{
+    position: absolute;
+        width: 100%;
+}
+.OURIMPAC{
+    position: relative;
+    color: white;
+    margin-left: 576px;
+    padding-top: 55px;
+   
+}
+.CALL {
+    height: 180px;
+    background: #a9e1bd;
+     margin-top: 57px !important;
+    margin-right: 100px;
+    display: flex;
+    margin-left: 100px; 
+}
+/* .call1{
+    margin-top: 50px;
+} */
+.WHITESPACe{
+   display: flex;
+    height: 33PX;
+    width: 12%;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    margin-top: 41px;
+    align-items: center;
+margin-left: 430px;}
+.whitediv{
+    background:white;
+    height: 200px;
+    position: relative;
+width: 25%;
+margin-right: 30px;
+border-radius: 10px;
+
+}
+.white3{
+    display: flex;
+
+margin-top: 40PX;
+margin-left: 200px;
+
+}
+.PROJECT{
+    text-align: center;
+    margin-top: 25px;
+}
+.PROJECt{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 60px;
+    color: #f40a1e;
+}
+.FIRSt{
+    background: #beedcf;
+     border: none;
+  
+}
+.top_performer{
+    margin-right: 149px;
+    margin-left: -162px;
+}
+
+.FIRST{
+    background:#eee;
+    border: none
+}   
+.TOPPERFORMER{
+    color: black;
+    margin-left: 100px;
+
+}
+
+.APPLYNOW123{
+    border: none;
+    height: 42px;
+    border-radius: 10px;
+    border: 1px solid #595959;
+    padding: 14px 34px; 
+    color: #fff;
+    margin-top: 10px;
+    background-color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    margin-left: -213px;
+}
+.APPLYNOW123:hover{
+    color:#fff;
+}
+
+.below{
+    display: flex;
+    
+    margin-top: 150px;
+    margin-left: 351px
+}
+.aPPLYNOW{
+    margin-left: 610px;
+   
+}
+.Threeimg {
+  display: flex;
+  margin-left: 195px;
+  margin-top: 30px;
+  width: 30%;
+}
+.MaindivApplyNow{
+    width: 87%;
+    height: 600px;
+    background: white;
+    margin-left: 97px;
+}
+.APPLYnOW{
+
+height: 48px;
+    background: #e7e7e7;
+    padding-top: 13px;
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+.BELOWAPPLYNOW{
+    border: 3PX solid rgb(15, 14, 14);
+}
+
+.inputfield{
+display: flex;
+
+margin-top: 30px;
+
+
+}
+
+.Inputfield{
+    width: 274%;
+     height: 60px;
+}
+
+.InputfielD{
+    width: 126%;
+    margin-left: 378px;
+    height: 60px;
+
+}
+.InputFielD{
+     margin-bottom: 8px;
+     margin-left:379px;
+    
+}
+
+.InpuTfield{
+    margin-bottom: 8px;
+
+}
+
+.InputFielD1{
+    width: 50%;
+    margin-right: 30px;
+}
+.InputFielD2{
+    width: 100%;
+    height: 60px;
+    
+}
+
+.InputFiElD1{
+    width: 50%;
+    
+    
+}
+
+.message{
+   margin-top: 30px;
+}
+.messagE{
+    height: 120px;
+    width: 100%;
+    border-radius: 5px;
+}
+/* .beLow{
+    
+} */
+.bELow{
+    margin-left: 952px;
+}
+.SUBMIt{
+    background: #a9e1bd;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 6px;
+    font-weight: 400;
+    font-family: fangsong;
+    font-size: 18px;
+    margin-top: 12px;
+    margin-left: 115px;
+}
+            
+.ROBOT{
+    width: 184%;
+    height: 64px;
+    margin-left: 1px
+}
+.RRRRRRR{
+ background-color: #ace7d5;
+ margin-left: 31px;
+ 
+}

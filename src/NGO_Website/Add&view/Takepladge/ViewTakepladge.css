@@ -1,0 +1,53 @@
+ .Statelist {
+     padding-top: 10px;
+     padding-left: 10px;
+     color: rgb(18, 188, 52);
+
+ }
+
+ .Addstate {
+     margin-left: 1000px;
+
+
+
+ }
+
+ .Box {
+     background: rgb(237, 231, 231);
+
+
+
+
+ }
+
+ .Line {
+     border-bottom: 3px solid #256fb9;
+     margin-top: 10px;
+ }
+
+
+ .Maindiv {
+     width: 100%;
+     margin-top: 15px;
+     margin-left: 15px;
+     margin-right: 15px;
+ }
+
+ .Header {
+     display: flex;
+     justify-content: space-between;
+
+
+ }
+
+ .Table {
+     width: 100%;
+ }
+
+
+ .Add {
+     background: rgb(21, 218, 18);
+ }
+ .kkkkkk{
+    margin-top: 30px;
+ }

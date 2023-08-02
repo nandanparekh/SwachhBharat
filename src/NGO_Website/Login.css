@@ -1,0 +1,57 @@
+.login-div{
+    display: flex;
+    justify-content: center;      /* for center */
+    align-items: center;
+    height: 100vh;            /*all prefer height 100vh*/
+}
+
+.main-div{
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 20px;
+  height: 315px;
+
+}
+
+
+.main-div > h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 38px;
+  font-family: emoji;
+  font-weight: 700;
+}
+
+.title-loginpage{
+  font-family: emoji;
+  font-size: 17px;
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 20px;
+} 
+
+.label {
+  border: 2px solid lightgray;
+  border-radius: 15px;
+  /* height: 25px; */
+  padding: 5px;
+  text-align: center;
+  width: 280px;
+}
+
+.center1{
+  display: flex;
+  
+  align-items: center;
+  flex-direction: column;
+}
+
+.submit41 {
+  border-radius: 5px;
+  padding: 7px;
+  font-size: 15px;
+  background-color: #00c0ef;
+  border-color: #00acd6;
+  color: white;
+} 

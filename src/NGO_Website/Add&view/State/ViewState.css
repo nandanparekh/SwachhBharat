@@ -1,0 +1,52 @@
+ .Statelist {
+     padding-top: 10px;
+     padding-left: 10px;
+     color: rgb(18, 188, 52);
+
+ }
+
+ .Addstateh{margin-left: 10px;
+    
+margin-right: 13px;
+}
+
+ 
+
+ .Box {
+     background: rgb(237, 231, 231);
+    
+
+
+
+ }
+
+ .Line {
+     border-bottom: 3px solid #256fb9;
+     margin-top: 10px;
+ }
+
+
+ .Maindiv {
+     width: 100%;
+     margin-top: 15px;
+     margin-left: 15px;
+     margin-right: 15px;
+ }
+
+ .Header {
+     display: flex;
+     justify-content: space-between;
+
+
+ }
+.TablE{
+    width: 100%;
+    overflow-y: scroll;
+        height: 600px;
+}
+ 
+
+ .Add{background: rgb(21, 218, 18);
+height: 48px;
+    color: white;
+width: 75%;}

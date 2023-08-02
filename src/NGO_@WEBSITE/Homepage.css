@@ -1,0 +1,310 @@
+
+.PhotofirsT {
+  height: 400px;
+ position: absolute;
+ 
+ z-index: 5;
+    top: 0%;
+}
+.aside {
+         
+
+  font-size: 50px;
+  color: aliceblue;
+
+  text-transform: capitalize;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  margin-top: 250px;
+}
+.P {
+  color: rgb(115, 206, 144);
+  font-size: 25px;
+  text-transform: capitalize;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  position: relative;
+}
+.P1{
+  color: #fff;
+  font-size: 25px;
+  text-transform: capitalize;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  position: relative;
+}
+
+.get {
+  background: #a9e1bd;
+  color: #222;
+  font-size: 20px;
+  text-transform: capitalize;
+  text-shadow: none;
+  min-width: 180px;
+  line-height: 46px;
+  height: auto;
+  text-align: center;
+  display: inline-block;
+  margin-top: 20px;
+  border: none;
+}
+
+.Your {
+  margin-left: 60px;
+  position: relative;
+  padding-top: 50px;
+  
+    z-index: 7;
+}
+
+.A {
+  margin-top: 147px;
+  position: relative;
+  background: url(https://staging.webmynehost.com/swachh-bharat/images/Our_Reach.jpg);
+  width: 33%;
+  height: 300px;
+  
+}
+.B {
+  margin-top: 128px;
+  background: #a9e1bd;
+  width: 33%;
+  height: 335px;
+  position: relative;
+  box-shadow: 2px 2px 4px black(70, 201, 181, 0.3)
+}
+.C {
+  background: rgb(11, 139, 224);
+  width: 34%;
+  position: relative;
+  height: 300px;
+background: url(https://staging.webmynehost.com/swachh-bharat/images/working_together.jpg);
+  margin-top: 147px;
+}
+.abc {
+  display: flex;
+  position: relative;
+    z-index: 5;
+ 
+}
+.abC {
+  display: flex;
+  padding-top: 100px;
+  background: white;
+}
+.about {
+  margin-left: 101px;
+  margin-right: 70px;
+}
+.Img {
+  margin-right: 85px;
+  vertical-align: middle;
+  box-shadow: 3px 7px 21px -6px rgb(32 36 36 / 72%);
+  /* border-radius: 123px; */
+  height: 0%;
+  margin-bottom: 6%;
+}
+.impacT {
+  background: white;
+  background: white;
+  text-align: center;
+  padding-bottom: 1px;
+}
+.XT {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+  background: white;
+}
+.Test {
+  margin-top: 30px;
+}
+/* .widtH{
+  width: 100%;
+} */
+
+.Help {
+  height: 400px;
+  background: #f0f0f0;
+  display: flex;
+  margin-top: 30px;
+}
+.HELP {
+  padding-left: 120px;
+  padding-top: 120px;
+}
+.Donate {
+  margin-top: 100px;
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+  background: white;
+}
+
+.Helping {
+  padding-top: 50px;
+}
+.HelpinG {
+  padding-top: 73px;
+}
+.xyt {
+  width: 120%;
+    height: 56px;
+    /* text-align: center; */
+    border: none;
+    font-size: 22px;
+    color: #222222;
+    background: #a9e1bd;
+    /* text-transform: uppercase; */
+    /* font-weight: 600; */
+    cursor: pointer;
+    padding-top: 8px;
+}
+
+.xyt:hover{
+  background-color: red;
+  color:#fff;
+}
+
+.vision {
+  padding-left: 50px;
+}
+.threeimg {
+  display: flex;
+    margin-left: 105px;
+    margin-top: 30px;
+    width: 30%;
+}
+.volunteer {
+  margin-top: 100px;
+    /* margin-left: 100px; */
+    /* margin-right: 100px; */
+    text-align: center;
+}
+.threediv {
+  padding-right: 116px;
+}
+.mkp {
+  margin-top: 20px;
+}
+.pkp {
+  padding-left: 15px;
+  background: #f0f0f0;
+  padding-top: 1px;
+  height: 170px;
+}
+.Call {
+  height: 180px;
+  background: #a9e1bd;
+  margin-top: 80px;
+  
+  margin-right: 100px;
+  display: flex;
+  margin-left: 100px;
+}
+.now {
+  margin-top: 50px;
+  margin-left: 140px;
+  width: 50%;
+}
+.callicon {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.digit {
+ 
+  margin-top: 54px;
+    /* margin-left: 30px; */
+    height: 79px;
+    background: white;
+    width: 20%;
+    text-align: center;
+    padding-right: 60px;
+}
+.Mobileno {
+  padding-top: 23px;
+    padding-left: 41px
+}
+
+.xyT {
+  width: 50%;
+  height: 40px;
+  text-align: center;
+  border: none;
+
+  color: #222222;
+  background: #a9e1bd;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+  margin-left: 05px;
+  
+}
+
+/* @media only screen and (max-width: 758px) {
+  .Menubar {
+    position: fixed;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+} */
+.VolunteeringWork{
+
+  text-align: center;
+  margin-top: 30px;
+  
+  font-size: 20px;
+    display: block;
+    margin-bottom: 30px;
+    font-weight: 600;
+    text-transform: uppercase
+}
+.VolunteeringWorK{
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: center;
+}
+.Applynow{
+  font-size: 18px;
+  display: inline-block;
+  margin-top: 47px;
+  font-weight: 600;
+  text-transform: uppercase;
+  background: #fff;
+  color: #222;
+  min-width: 175px;
+  height: 52px;
+  line-height: 52px;
+  margin-left: 166px;
+ border: none;
+}
+
+ .Applynow:hover{
+  background-color: black;
+  color: aliceblue;
+ }  
+ .w{
+  background: white;
+}
+.abovefooter{
+    color: white;
+    height: 100px;
+}
+.IMG{
+  width: 100%;
+    height: 735px;
+}
+.IMg{
+width: 101%;
+    height: 256px;
+}
+.bbbbbbbbbb{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.homepageimg{
+  margin-right: 10px;
+  margin-bottom: 10px;
+}

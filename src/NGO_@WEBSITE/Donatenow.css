@@ -1,0 +1,97 @@
+.klklkl{
+    margin-top: 180px;
+    width: 86%;
+    margin-left: 98px;
+}
+.CALLDonatenow{
+    height: 180px;
+    background: #a9e1bd;
+    margin-top: 100px;
+    margin-right: 100px;
+    display: flex;
+    margin-left: 100px;
+}
+.borderlineDonatenow{
+    border: 1px solid black;
+}
+.SELECTTHEAMOUNTYOUWISHTODONATE{
+    height: 40px;
+    background: #dee2e6;
+}
+.textt{
+    text-align: center;
+    padding-top: 5px;
+}
+.donateform{
+    display: flex;
+    
+}
+.donatedata{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.donateinput{
+    width: 222%;
+
+    height: 60px;
+}
+.donateinpuT{
+    width: 215%;
+    height: 60px;
+}
+.HelpingAmount{
+    margin-left: 296px;
+    width: 24%;
+}
+.HelpingAmounT{
+   
+    width: 24%;
+}
+.donateleft{
+    margin-left: 237px;
+}
+.donateright{
+    width: 194%;
+    height: 60px;
+}
+.SELECTTHEAMOUNTYOUWISHTODONATe{
+    height: 40px;
+    background: #dee2e6;
+    margin-top: 25px;
+}
+.DONATEMARGIN{
+    margin-left: 56px;
+}
+.DONATEMARGIn{
+
+width: 125%;
+height: 60px;
+}
+.DONATEMARGin{
+
+width: 403%;
+height: 60px;
+}
+.DONATEMARGin1{
+
+    width: 370%;
+    height: 60px;
+    }
+.donatebELow1{
+    margin-left: 935px;
+    margin-top: 16px;
+}
+/* .donateSUBMIt:hover{
+    background-color: red;
+    
+} */
+.donateSUBMIt{
+background:#a9e1bd;
+    width: 110%;
+    height: 46px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 590;
+    font-family: fangsong;
+    font-size: 18px;
+}

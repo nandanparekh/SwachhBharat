@@ -1,0 +1,114 @@
+/* <-- Google fonts imports --> */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+.sidebar{
+  position: relative;
+  left: 0;
+  height: 100%;
+  /* width: 268px; */
+  width: 283px;
+  background-color: black;
+}
+
+.logo-details{
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: ghostwhite;
+}
+
+.logo-details > i{
+  font-size: 30px;
+  color: black;
+  /* background-color: red; */
+  height: 50px;
+  text-align: center;
+  min-width: 50px;
+  line-height: 47px;
+}
+
+.logo_name{
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+  margin-left: 12px;
+  text-decoration: none;
+}
+
+.sidebar .nav-links{
+  background-color: white;
+  color: black;
+  height: 100%;
+  padding-left: 0px;
+}
+
+.sidebar .nav-links li{
+  position: relative;
+  list-style-type: none;
+  transition: all 0.4s ease;
+  
+}
+.sidebar .nav-links li:hover{
+  background-color: rgb(174, 219, 219);
+  padding-left: 8px;
+}
+
+.icon-link{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* margin-left: -32px; */
+}
+
+.sidebar .nav-links li i{
+  height: 50px;
+  text-align: center;
+  min-width: 30px;
+  line-height: 47px;
+  color: black;
+}
+
+.sidebar .nav-links li a{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  padding: 4px;
+}
+.link_name{
+  font-size: 18px;
+  font-weight: 400;
+  
+}
+.sidebar .nav-links li .sub-menu{
+  padding: 5px 16px 5px 60px;
+  margin-top: -10px;
+  background: ghostwhite;
+  
+}
+
+.sub-menu{
+  display: none;
+}
+
+.sub-menu a{
+  font-size: 1px;
+}
+
+.sidebar.open.sub-menu{
+  position: absolute
+}
+
+.dd-tem-center{
+  margin-left: 10px;
+  opacity: 0.4sec;
+}
+
+

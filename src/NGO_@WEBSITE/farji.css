@@ -1,0 +1,479 @@
+/* .english {
+  position: relative;
+  top: 0px;
+  margin-left: 210px;
+}
+
+.Menubar {
+  display: flex;
+  justify-content: space-around;
+  height: 59px;
+  background-color: #a9e1bd;
+  top: 7px;
+  margin-left: 210px;
+  margin-right: 210px;
+  align-items: center;
+  position: relative;
+}
+.w {
+  background: white;
+}
+.Donatenow {
+  background-color: aliceblue;
+  box-sizing: border-box;
+  border: 2px solid white;
+  height: 74px;
+  width: 16%;
+  padding-top: 19px;
+
+  font-size: x-large;
+}
+.Photofirst {
+  position: absolute;
+}
+.aside {
+  position: relative;
+
+  font-size: 50px;
+  color: aliceblue;
+
+  text-transform: capitalize;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  margin-top: 250px;
+}
+.P {
+  color: rgb(115, 206, 144);
+  font-size: 25px;
+  text-transform: capitalize;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  position: relative;
+}
+
+.get {
+  background: rgb(118, 224, 152);
+  font-size: 25px;
+  text-transform: capitalize;
+  font-family: "Oswald", sans-serif;
+  width: 11%;
+  position: relative;
+  margin-left: 00px;
+}
+
+.Your {
+  margin-left: 60px;
+}
+.A {
+  margin-top: 152px;
+  
+  background: url(https://staging.webmynehost.com/swachh-bharat/images/Our_Reach.jpg);
+  width: 33%;
+  height: 300px;
+  
+}
+.B {
+  margin-top: 135px;
+  background: #a9e1bd;
+  width: 33%;
+  height: 335px;
+  position: relative;
+}
+.C {
+  background: rgb(11, 139, 224);
+  width: 34%;
+  height: 300px;
+background: url(https://staging.webmynehost.com/swachh-bharat/images/working_together.jpg);
+  margin-top: 152px;
+}
+.abc {
+  display: flex;
+}
+.abC {
+  display: flex;
+  padding-top: 100px;
+  background: white;
+}
+.about {
+  margin-left: 200px;
+  margin-right: 70px;
+}
+.Img {
+  margin-right: 200px;
+}
+.impacT {
+  background: white;
+  background: white;
+  padding-left: 650px;
+  padding-bottom: 1px;
+}
+.XT {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+  background: white;
+}
+.Test {
+  margin-top: 30px;
+}
+.widtH{
+  width: 100%;
+}
+
+.Help {
+  height: 400px;
+  background: #f0f0f0;
+  display: flex;
+  margin-top: 30px;
+}
+.HELP {
+  padding-left: 120px;
+  padding-top: 120px;
+}
+.Donate {
+  margin-top: 100px;
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+  background: white;
+}
+
+.Helping {
+  padding-top: 50px;
+}
+.HelpinG {
+  padding-top: 73px;
+}
+.xyt {
+  width: 120%;
+  height: 56px;
+  text-align: center;
+  border: none;
+  font-size: 22px;
+  color: #222222;
+  background: #a9e1bd;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.vision {
+  padding-left: 50px;
+}
+.threeimg {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 30px;
+  width: 30%;
+}
+.volunteer {
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.threediv {
+  padding-right: 20px;
+}
+.mkp {
+  margin-top: 20px;
+}
+.pkp {
+  padding-left: 15px;
+  background: #f0f0f0;
+  padding-top: 1px;
+  height: 170px;
+}
+.Call {
+  height: 180px;
+  background: #a9e1bd;
+  margin-top: 80px;
+  margin-bottom: 70px;
+  margin-right: 100px;
+  display: flex;
+  margin-left: 100px;
+}
+.now {
+  margin-top: 50px;
+  margin-left: 140px;
+  width: 50%;
+}
+.callicon {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.digit {
+  margin-top: 50px;
+  margin-left: 100px;
+  height: 50px;
+  background: white;
+  width: 20%;
+  margin-right: 25px;
+}
+.Mobileno {
+  padding-top: 10px;
+  padding-left: 28px;
+}
+.footer {
+  height: 330px;
+  background: #000;
+  margin-bottom: 100px;
+  display: flex;
+}
+.About {
+  color: white;
+}
+.AbouT {
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+.xyT {
+  width: 50%;
+  height: 40px;
+  text-align: center;
+  border: none;
+
+  color: #222222;
+  background: #a9e1bd;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+  margin-left: 05px;
+}
+.footerdiv {
+  margin-top: 80px;
+  margin-left: 100px;
+  margin-right: 70px;
+}
+
+.Fbutton {
+  border: 1px solid #e01111;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  margin-right: 10px;
+  color: #000804;
+  margin-top: 10px;
+  width: 30%;
+}
+.fbutton {
+  border: 1px solid #595959;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  margin-right: 10px;
+  color: #0b0300;
+  margin-top: 10px;
+  width: 15%;
+  margin-left: 5px;
+}
+.gapphoto {
+  padding-right: 4px;
+}
+.sociallink {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 758px) {
+  .Menubar {
+    position: fixed;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+.VolunteeringWork{
+
+  text-align: center;
+  margin-top: 30px;
+  
+  font-size: 20px;
+    display: block;
+    margin-bottom: 30px;
+    font-weight: 600;
+    text-transform: uppercase
+}
+.VolunteeringWorK{
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: center;
+}
+.Applynow{
+   margin-left: 150px;
+  font-size: 21px;
+ margin-top: 20px;
+  background: white;
+  width: 35%;
+ 
+}
+
+ .Applynow:hover{
+  background-color: #e01111;
+  color: aliceblue;
+ }   */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ import React, { useState, useEffect, useLocation } from "react";
+import "./AddSlider.css";
+import axios from "axios";
+import { useSelector } from "react-redux";
+import { Link, useNavigate } from "react-router-dom";
+export default function AddSlider() {
+  const location = useLocation();
+  const [slidertitle, setSlidertitle] = useState("");
+
+  const [description, setDescription] = useState("");
+
+  const [image, setImage] = useState();
+
+  const [status, setStatus] = useState("");
+
+  const { loginStatus } = useSelector((state) => state.login);
+
+  const naviagte = useNavigate();
+
+  function Addform(e) {
+    e.preventDefault();
+    // let data = {
+    //   sliderTitle: slidertitle,
+    //   description: description,
+    //   image: image,
+    //   status: status,
+    // };
+    // console.log(data);
+    if (image && slidertitle && status && description) {
+      console.log(loginStatus);
+      let formData = new FormData();
+
+      formData.append("sliderTitle", slidertitle);
+      formData.append("description", description);
+      formData.append("image", image[0]);
+      formData.append("status", status);
+
+      axios
+        .put(
+          "http://localhost:3001/api/slider/61c46c1d5b9355391e6d53be",
+          formData,
+          {
+            headers: {
+              "Content-Type": "multipart/form-data",
+
+              Authorization: `Bearer ${loginStatus}`,
+            },
+          }
+        )
+        .then((res) => {
+          if (res.status === 200) {
+            console.log(res);
+            naviagte("/Viewslider");
+            setSlidertitle("");
+            setDescription("");
+            setImage("");
+            setStatus("");
+          }
+        })
+        .catch((err) => {
+          console.log(err);
+        });
+    } else {
+      alert("enter the data");
+    }
+  }
+  useEffect(() => {
+    if (location.state) {
+      setSlidertitle(location.state.sliderTitle);
+      setDescription(location.state.description);
+      setImage(location.state.image);
+      setStatus(location.state.status);
+    }
+  }, [location.state]);
+  console.log(location, "kkkkkkkkkkkkkkkk");
+  return (
+    <div className="maindiv">
+      <form className="box" onSubmit={Addform}>
+        <div>
+          <h4 className="AddstatE">Edit Slider</h4>
+        </div>
+        <div className="Line"></div>
+        <div className="Languagecode">
+          <label>
+            <b>Slider Title:</b>
+          </label>
+          <input
+            type="text"
+            value={slidertitle}
+            onChange={(e) => setSlidertitle(e.target.value)}
+            placeholder="Slider Title"
+            style={{ marginLeft: "25px", width: "50%" }}
+          />
+        </div>
+        <div className="Languagecode">
+          <label>
+            <b>Description:</b>
+          </label>
+          <input
+            type="text"
+            value={description}
+            onChange={(e) => setDescription(e.target.value)}
+            style={{ marginLeft: "17px", width: "50%" }}
+            placeholder="Description "
+          />
+        </div>
+        <div className="Languagecode">
+          <label>
+            <b>Status :</b>
+          </label>
+
+          <select
+            value={status}
+            onChange={(e) => setStatus(e.target.value)}
+            style={{ marginLeft: "50px", width: "50%" }}
+          >
+            <option value={"active"}>Active</option>
+            <option value={"Inactive"}>Inactive</option>
+          </select>
+        </div>
+        <div className="Languagecode">
+          <label>
+            <b>Image:</b>
+          </label>
+          <input
+            type="file"
+            onChange={(e) => setImage(e.target.files)}
+            style={{ marginLeft: "50px", width: "50%" }}
+          />
+        </div>
+        <div className="BUTTON">
+          <button
+            className="button mx-2"
+            onClick={() => {
+              naviagte("/Viewslider");
+            }}
+          >
+            back
+          </button>
+
+          <button type="submit" className="button mx-2">
+            Update
+          </button>
+        </div>
+      </form>
+    </div>
+  );
+}

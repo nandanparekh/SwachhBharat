@@ -1,0 +1,85 @@
+.english {
+  position: relative;
+  top: 0px;
+  margin-left: 210px;
+}
+
+.Menubar {
+  display: flex;
+  justify-content: space-around;
+  height: 70px;
+  background-color: #a9e1bd;
+  top: 7px;
+  margin-left: 82px;
+  margin-right: 82px;
+  align-items: center;
+  position: relative;
+  background-position: top;
+  font-weight: 500;
+}
+.Donatenow {
+  background-color: aliceblue;
+  height: 81px;
+  width: 16%;
+  border: none;
+  padding-top: 19px;
+  position: relative;
+  font-size: x-large;
+  text-align: center;
+}
+
+
+
+.Donatenow:hover{
+  background-color: rgb(227, 38, 21);
+  color: white;
+  
+}
+.cursor {
+  cursor: pointer;
+  font-family: 600;
+}
+
+/* .cursoR {
+  cursor: pointer;
+  font-family: 600;
+} */
+
+
+.wl {
+  
+  position: relative;
+  z-index: 10;
+  margin-top: 18px;
+}
+.selection {
+  border-radius: 0px 0px 8px 8px;
+}
+.cursor:hover {
+  color: rgb(216, 11, 11);
+ 
+  
+}
+
+.cursor{
+  position: relative;
+  display: inline-block;
+}
+
+.cursor::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: red;
+  transition: width 0.3s ease;
+  
+}
+
+.cursor:hover::before {
+  width: 100%;
+  right: 0;
+}
+

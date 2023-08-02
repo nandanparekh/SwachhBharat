@@ -1,0 +1,110 @@
+ .AddstatE {
+     padding-top: 10px;
+     padding-left: 10px;
+     color: rgb(18, 188, 52);
+
+ }
+
+ .BOX {
+     background: rgb(237, 231, 231);
+     height: 900px;
+
+
+
+ }
+
+ .Line {
+     border-bottom: 3px solid #256fb9;
+     margin-top: px;
+ }
+
+ .LanguageCODE {
+     margin-top: 25px;
+     margin-left: 65px;
+ }
+
+ .Description{
+
+    margin-top: 25px;
+        margin-left: 95px;
+ }
+
+.State {
+
+    margin-top: 25px;
+    margin-left: 135px;
+}
+
+.City {
+
+    margin-top: 25px;
+    margin-left: 145px;
+}
+
+.Volunteer {
+
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+
+.Date {
+
+    margin-top: 25px;
+    margin-left: 140px;
+}
+
+.PeopleBenefited {
+
+    margin-top: 25px;
+    margin-left: 45px;
+}
+
+
+.YouthsTrained {
+
+    margin-top: 25px;
+    margin-left: 60px;
+}
+
+.BannerImage {
+
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.ProgrammsImage{
+
+    margin-top: 25px;
+        margin-left: 10px;
+}
+.Status{
+
+    margin-top: 25px;
+    margin-left: 90px;
+}
+ .Whythisplace{
+
+    margin-top: 25px;
+        margin-left: 65px;
+ }
+ .zzz {
+     display: flex;
+ }
+
+ .button {
+     width: 10%;
+     margin-top: 15px;
+     background: rgb(16, 219, 165);
+ }
+
+ .BUTTON {
+     margin-left: 350PX;
+ }
+
+ .maindiv {
+     width: 100%;
+     margin-top: 15px;
+     margin-left: 15px;
+     margin-right: 15px;
+ }

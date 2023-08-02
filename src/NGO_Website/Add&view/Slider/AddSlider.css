@@ -1,0 +1,45 @@
+ .AddstatE {
+     padding-top: 10px;
+     padding-left: 10px;
+     color: rgb(18, 188, 52);
+
+ }
+
+ .box {
+     background: rgb(237, 231, 231);
+     height: 360px;
+
+
+
+ }
+
+ .Line {
+     border-bottom: 3px solid #256fb9;
+     margin-top: px;
+ }
+
+ .Languagecode {
+     margin-top: 25px;
+     margin-left: 25px;
+ }
+
+ .zzz {
+     display: flex;
+ }
+
+ .button {
+     width: 10%;
+     margin-top: 15px;
+     background: rgb(16, 219, 165);
+ }
+
+ .BUTTON {
+     margin-left: 350PX;
+ }
+
+ .maindiv {
+     width: 100%;
+     margin-top: 15px;
+     margin-left: 15px;
+     margin-right: 15px;
+ }

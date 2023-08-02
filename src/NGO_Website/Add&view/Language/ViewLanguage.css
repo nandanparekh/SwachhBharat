@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.Languagelistr{
+padding-top: 10px;
+    padding-left: 10px;
+color: blue;
+width: "140%";
+
+}
+.Addlanguage{
+    color: rgb(54, 180, 19);
+    height: 27px;
+    padding-top: 6px;
+    
+    
+}
+.form{
+    background:rgb(237, 231, 231);;
+}
+.Line {
+    border-bottom: 3px solid #256fb9;
+    margin-top: 10px;
+}
+.Search{
+    margin-top: -16px;
+    margin-left: 1005px;
+}
+.mk{
+    margin-left: 600px;
+    width: 10%;
+    margin-top: 12px;
+    margin-right: 21px;
+}

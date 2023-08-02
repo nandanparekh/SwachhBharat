@@ -1,0 +1,77 @@
+.ourofficeMaindiv{
+margin-bottom: 30px;
+    justify-content: space-between;
+    display: flex;
+    
+    width: 70%;
+    height: 320px;
+    margin-top: 225px;
+    margin-left: 210px;
+    
+}
+ .OurOfficeLine{
+    border: 2px solid black;
+   width: 130%;
+   margin-bottom: 20px;
+}
+.x{
+    max-width: 20%;
+   
+}
+.y{
+    max-width: 21%;
+
+}
+.ContactDiv1{
+    width: 155%;
+     height: 60px;
+}
+.ContactMessage{
+    width: 165%;
+     height: 270px;
+}
+.contactmargiN{
+    margin-bottom: 05px;
+}
+.contactmargin{
+    margin-top: 15px;
+}
+.rOBOT{
+    width: 154%;
+    height: 64px;
+    margin-left: 1px;
+    margin-top: 75px;
+}
+.submitDiv{
+    margin-left: 130px;
+    margin-top: 80px;
+}
+.SENDMESSAGE{
+    background: #a9e1bd;
+    width: 356%;
+    height: 46px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 590;
+    font-family: fangsong;
+    font-size: 18px;
+    margin-left: -62px;
+}
+/* .SENDMESSAGE:hover{
+    background: rgb(237, 101, 101);
+} */
+.mapcontact{
+    /* background: #a1e307; */
+    margin-top: 200px;  
+    height: 500px;
+    width: 75%;
+    margin-left: 200px;
+}
+.CALLcontact{
+    height: 180px;
+    background: #a9e1bd;
+    margin-top: 100px;
+    margin-right: 100px;
+    display: flex;
+    margin-left: 100px;
+}
